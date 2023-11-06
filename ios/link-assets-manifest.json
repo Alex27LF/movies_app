@@ -1,0 +1,93 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/OFL.txt",
+      "sha1": "1632639cdce736e649458a0acfc457a9514bbc91"
+    },
+    {
+      "path": "src/assets/fonts/README.txt",
+      "sha1": "12aad43c24f21de8d5234a39eebe3705671f25dc"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-Black.ttf",
+      "sha1": "bb688dbd1b4571a15b15373120acda7d3a5082d5"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-BlackItalic.ttf",
+      "sha1": "96dd390b714aa129d3304a5e6882c3745e80caaf"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-Bold.ttf",
+      "sha1": "10a22ae5d9cf89d8c10d764e45b69c56fec90e2c"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-BoldItalic.ttf",
+      "sha1": "e0a755d28e2275d83a77d8e242969c5044d93c4c"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-ExtraBold.ttf",
+      "sha1": "8e14b372e35812e7d373fc625a294493c481cd8f"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-ExtraBoldItalic.ttf",
+      "sha1": "c94bc3e0940944e585a8a5f429a299ea18602601"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-ExtraLight.ttf",
+      "sha1": "492b3f535c4a26241a536bbf744d197fb2258ac9"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-ExtraLightItalic.ttf",
+      "sha1": "d1f9caa850f4750e2668d3b9a305bd5e7d068d84"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-Italic-VariableFont_wght.ttf",
+      "sha1": "b91b4a51d558f4aea898e4c1cfa32d6acd5c4e38"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-Italic.ttf",
+      "sha1": "475b654248d444b79c2c3f475459a13eb0c010dc"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-Light.ttf",
+      "sha1": "4bd573c30c57b3ec30b438cf86a2b6b18edd5557"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-LightItalic.ttf",
+      "sha1": "7765a632a78de09ee276ba25a3cc3cba5e087495"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-Medium.ttf",
+      "sha1": "62a2aaea3aca1b80d33dc70ee0ae2a96c929c5d9"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-MediumItalic.ttf",
+      "sha1": "4681067cd1d3c84c805da948f9b8c017be823633"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-Regular.ttf",
+      "sha1": "e9ee8859d728eb7cbd5a8ef8d657ac6e8c97b664"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-SemiBold.ttf",
+      "sha1": "edcc18a1f330c1294f2d9c6fd5e025a975da91a0"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-SemiBoldItalic.ttf",
+      "sha1": "0ca282cf7489efbd2d8a04daa949c7b2c8eca398"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-Thin.ttf",
+      "sha1": "47eccc35cd35a7f273e3228eaa12be3ff72ffc62"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-ThinItalic.ttf",
+      "sha1": "c2eb0a3a035f7349c22de06df1946e858729b501"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansCondensed-VariableFont_wght.ttf",
+      "sha1": "e3a6b7013d5d6af723156bd8b4d62c3b30fec70e"
+    }
+  ]
+}
